@@ -1,0 +1,20 @@
+Na Logistica Binária, trabalharemos com variáveis Qualitativas, com duas Categorias (dummy), ou seja tem duas possibilidades de resposta, a distribução será de Bernoulli.
+
+Lembrando do conceito de ponderação arbitrária, eu não posso pegar uma variável e atribuir valores de 0 e 1 e rodar o modelo.
+
+Conceitos que serão vistos:
+
+- Probabilidade
+    É a probabilidade do evento ocorrer. Casos favoraveis/casos possíveis 
+- Chance (odds)
+    A chance de acontecimento do evento que é calculado como P/1-P, ou seja a razão entre o evento e do não evento
+- Logito
+    Logaritmo natural da chance de ocorrência de uma resposta do tipo "sim"
+
+Loglike -> Quanto mais elevado for o valor da verosimilhança (log-likelihood), melhor o modelo se ajusta a um conjunto de dados.
+
+
+Matriz de confusão
+
+É uma tabela que exibe e compara os valores reais com os valores precistos pelo modelo.
+

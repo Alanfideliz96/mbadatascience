@@ -1,0 +1,21 @@
+# Ignorar diretórios de ambientes virtuais
+venv/
+.env
+include/
+lib/
+share/
+scripts/
+
+# Ignorar arquivos e pastas do VS Code
+.vscode/
+
+# Ignorar arquivos compilados do Python
+*.pyc
+__pycache__/
+
+# Ignorar arquivos de logs
+*.log
+Others
+
+# Ignorar dependências do projeto
+*.egg-info/

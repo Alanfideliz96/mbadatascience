@@ -5,6 +5,7 @@ include/
 lib/
 share/
 scripts/
+.venv
 
 # Ignorar arquivos e pastas do VS Code
 .vscode/
